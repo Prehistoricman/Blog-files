@@ -1,4 +1,6 @@
-##Problem Solving and Being Lazy
+title: "Problem Solving and Being Lazy 2"
+date: 2015-03-18 11:34:29
+tags:
 ---
 
 ###Problem solving
@@ -14,4 +16,5 @@ If you aim is to solve the problem only, then don't bother re-writing code. If s
 1. Efficient
 2. Working
 3. Done already!
----
+
+- Zeke
